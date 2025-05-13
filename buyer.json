@@ -2,5 +2,9 @@
   {
     "name": "Dimzzy",
     "harga": 100000
+  },
+  {
+    "name": "Nathan",
+    "harga": 1000000
   }
 ]
